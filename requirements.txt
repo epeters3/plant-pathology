@@ -1,0 +1,9 @@
+wandb
+tensorflow-gpu>=2.2.0
+fire
+numpy
+tqdm
+h5py
+pandas
+pillow
+tensorflow_hub

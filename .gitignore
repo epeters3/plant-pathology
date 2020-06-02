@@ -1,0 +1,8 @@
+images
+data
+.vscode
+__pycache__
+wandb
+submissions
+*.csv
+*.h5
